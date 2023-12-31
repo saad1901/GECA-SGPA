@@ -16,8 +16,8 @@ msg['From'] = sender_email
 msg['To'] = recipient_email
 msg['Subject'] = 'Subject of the email'
 
-st.subheader('GECA SGPA CALCULATOR')
-st.text('By Mohammad Saad')
+st.subheader('SGPA CALCULATOR FOR GECA')
+st.text('@sxd9')
 
 branches = ['Civil', 'Electrical', 'Mechanical', 'EnTC', 'CSE', 'IT']
 semesters = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII']
