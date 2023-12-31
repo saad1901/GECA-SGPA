@@ -151,5 +151,5 @@ elif button2 and len(text)>0 and len(name) >0:
     server.quit()
 
     
-#https://sgpacalci.streamlit.app/
-#this is the link to access webUI
+#https://sgpacalci.streamlit.app/
+
