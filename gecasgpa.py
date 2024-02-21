@@ -68,7 +68,7 @@ if branch and semester:
 
 sub_count = 0
 total = 0
-elective = ['elective1','elective2','elective3']
+elective = ['elective1','elective2','elective3','UHV']
 if flag == 1 and semester and branch:
     
 
